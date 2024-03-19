@@ -1,6 +1,9 @@
-# This script processes a given text file to produce a required output. 
+# This script processes a given text file to produce a required output.
+# 
 # Created for the AiCore Hackathon.
+#
 # Requires the input.txt in the same folder as the script to be run.
+#
 # Daniel Killen 17/03/2024
 
 auctions = {}
